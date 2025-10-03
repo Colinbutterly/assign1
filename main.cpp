@@ -9,7 +9,10 @@ int main()
   int tablespoons;
   int teaspoons;
 
-  cout << "enter quarts"
+  cout << "enter quarts" << endl;
+  cin >> quarts;
+
+  
 
 
 }
