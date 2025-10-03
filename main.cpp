@@ -11,7 +11,9 @@ int main()
   cin >> teaspoons;
 
   tablespoons = teaspoons * 3;
-  cups = 
+  cups = tablespoons * 16;
+  
+
 
 
 
