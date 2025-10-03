@@ -10,7 +10,8 @@ int main()
   cout << "enter teaspoons" << endl;
   cin >> teaspoons;
 
-  
+  tablespoons = teaspoons * 3;
+  cups = 
 
 
 
